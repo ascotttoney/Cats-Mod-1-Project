@@ -1,13 +1,13 @@
-.DS_Store
-.idea
+# .DS_Store
+# .idea
 
-log
-node_modules
-out
-tmp
+# log
+# node_modules
+# out
+# tmp
 
-*.iml
-*.log
-*.swp
+# *.iml
+# *.log
+# *.swp
 
-db/*.db
+# db/*.db
